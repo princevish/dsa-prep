@@ -13,3 +13,6 @@ function selection_sort(nums) {
 }
 
 console.log(selection_sort([1, 4, 2, 6, 9, 3]))
+
+// Time complexity: O(n^2)
+// Space complexity: O(1)
